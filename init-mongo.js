@@ -1,4 +1,4 @@
-db.createUsder({
+db.createUser({
   user: 'happyUser',
   pwd: 'happyUser',
   roles: [
